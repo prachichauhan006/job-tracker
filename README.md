@@ -10,7 +10,7 @@ A Python automation tool to track internship/job applications with automatic ema
 - Secure credential management using .env file
 
 ## Tech Stack
-- Python
+- Python 
 - OOPs (Encapsulation, Abstraction)
 - openpyxl — Excel read/write
 - smtplib — Email automation
