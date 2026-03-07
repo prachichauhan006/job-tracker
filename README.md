@@ -3,7 +3,7 @@
 A Python automation tool to track internship/job applications with automatic email reminders.
 
 ## Features
-- Track all job applications in one place
+- Track all job applications in one place  
 - Automatic email reminder after 7 days of no response
 - Data saved in Excel for permanent storage
 - Built with OOPs principles — 3 classes, clean architecture
