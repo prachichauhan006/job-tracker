@@ -13,7 +13,7 @@ A Python automation tool to track internship/job applications with automatic ema
 - Python 
 - OOPs (Encapsulation, Abstraction)
 - openpyxl — Excel read/write
-- smtplib — Email automation
+- smtplib — Email automation 
 - python-dotenv — Secure credentials
 
 ## How to Run
