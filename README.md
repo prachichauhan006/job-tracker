@@ -7,7 +7,7 @@ A Python automation tool to track internship/job applications with automatic ema
 - Automatic email reminder after 7 days of no response
 - Data saved in Excel for permanent storage
 - Built with OOPs principles — 3 classes, clean architecture
-- Secure credential management using .env file
+- Secure credential management using .env file  
 
 ## Tech Stack
 - Python 
