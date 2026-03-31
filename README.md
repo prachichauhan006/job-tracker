@@ -9,7 +9,7 @@ A Python automation tool to track internship/job applications with automatic ema
 - Built with OOPs principles — 3 classes, clean architecture
 - Secure credential management using .env file  
 
-## Tech Stack
+## Tech Stack  
 - Python 
 - OOPs (Encapsulation, Abstraction)
 - openpyxl — Excel read/write
